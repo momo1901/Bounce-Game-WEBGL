@@ -9,7 +9,7 @@ We have implemented this game similar to the above description of the original N
 
 The Live Demo Link for our version of bounce game can be found here:
 
-https://mokeam.github.io/Bounce-Nokia-Game/
+https://momo1901.github.io/Bounce-Game-WEBGL/
 
 ## Technology
 * ThreeJs (3D Computer Graphics)
@@ -26,4 +26,10 @@ https://mokeam.github.io/Bounce-Nokia-Game/
 * Google Chrome
 
 ## Documentation
-https://github.com/mokeam/Bounce-Nokia-Game/blob/master/Documentation.pdf
+https://github.com/momo1901/Bounce-Game-WEBGL/blob/master/Documentation.pdf
+
+##Developers:
+1) Mariam Garba
+2) Maryam Bandali
+3) Oluwatoyin Sanni
+4) Mohammed Sukhsarwala
