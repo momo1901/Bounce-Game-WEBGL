@@ -28,7 +28,7 @@ https://momo1901.github.io/Bounce-Game-WEBGL/
 ## Documentation
 https://github.com/momo1901/Bounce-Game-WEBGL/blob/master/Documentation.pdf
 
-##Developers:
+## Developers:
 1) Mariam Garba
 2) Maryam Bandali
 3) Oluwatoyin Sanni
